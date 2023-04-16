@@ -21,10 +21,10 @@ function verificaSequenciaFibonacci(numero) {
   }
   
   
-  let numeroInformado = 13; 
+  let numeroIn = 13; 
   
  
-  let resultado = verificaSequenciaFibonacci(numeroInformado);
+  let resultado = verificaSequenciaFibonacci(numeroIn);
   solution.textContent=resultado;
-  console.log(resultado);
+
   
